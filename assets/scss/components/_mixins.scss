@@ -1,0 +1,33 @@
+@mixin s-b {
+    font-family: $s-b;
+}
+@mixin s-db {
+    font-family: $s-db;
+}
+@mixin s-el {
+    font-family: $s-el;
+}
+@mixin s-h {
+    font-family: $s-h;
+}
+@mixin s-l {
+    font-family: $s-l;
+}
+@mixin s-m {
+    font-family: $s-m;
+}
+@mixin s-r {
+    font-family: $s-r;
+}
+@mixin h-w9 {
+    font-family: $h-w9;
+}
+@mixin k-b {
+    font-family: $k-b;
+}
+@mixin k-h{
+    font-family: $k-h;
+}
+@mixin transition {
+    transition: all .4s ease-in-out;
+}

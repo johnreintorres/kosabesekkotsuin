@@ -1,0 +1,51 @@
+@font-face {
+    font-family: 's-bold';
+    src: url(../fonts/A-OTF-ShinGoPr6N-Bold.otf);
+}
+@font-face {
+    font-family: 's-debold';
+    src: url(../fonts/A-OTF-ShinGoPr6N-DeBold.otf);
+}
+@font-face {
+    font-family: 's-exlight';
+    src: url(../fonts/A-OTF-ShinGoPr6N-ExLight.otf);
+}
+@font-face {
+    font-family: 's-heavy';
+    src: url(../fonts/A-OTF-ShinGoPr6N-Heavy.otf);
+}
+@font-face {
+    font-family: 's-light';
+    src: url(../fonts/A-OTF-ShinGoPr6N-Light.otf);
+}
+@font-face {
+    font-family: 's-medium';
+    src: url(../fonts/A-OTF-ShinGoPr6N-Medium.otf);
+}
+@font-face {
+    font-family: 's-regular';
+    src: url(../fonts/A-OTF-ShinGoPr6N-Regular.otf);
+}
+@font-face {
+    font-family: 'h-w9';
+    src: url(../fonts/hiragino-w9.ttc);
+}
+@font-face {
+    font-family: 'k-b';
+    src: url(../fonts/KozMinPro-Bold.otf);
+}
+@font-face {
+    font-family: 'k-h';
+    src: url(../fonts/KozMinPro-Heavy.otf);
+}
+
+$s-b: 's-bold';
+$s-db: 's-debold';
+$s-el: 's-exlight';
+$s-h: 's-heavy';
+$s-l: 's-light';
+$s-m: 's-medium';
+$s-r: 's-regular';
+$h-w9: 'h-w9';
+$k-b: 'k-b';
+$k-h: 'k-h';
